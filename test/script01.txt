@@ -1,0 +1,58 @@
+1
+1
+000001/2-99
+Sadia Alimentos
+1
+000002/5-11
+Alimentos Perdigao
+1
+000171/0-99
+Fri Boi Generos Alimenticios
+4
+5
+3
+1
+3
+1
+Sadia Alimentos
+Joao da Silva
+2150.99
+12/07/2000
+1
+Alimentos Perdigao
+Maria das Gracas
+4670.00
+03/09/2001
+1
+Alimentos Perdigao
+Antonio Soares dos Santos
+5441.00
+06/04/2014
+1
+Sadia Alimentos
+Nicolau Nascimento
+2530.00
+25/07/2010
+3
+Alimentos Perdigao
+4
+Alimentos Perdigao
+10.00
+3
+Alimentos Perdigao
+2
+Alimentos Perdigao
+Maria das Gracas
+3
+Alimentos Perdigao
+5
+5
+2
+1
+Fri Boi Generos Alimenticios
+Joesley Santana
+345000.00
+13/03/1990
+5
+3
+4
