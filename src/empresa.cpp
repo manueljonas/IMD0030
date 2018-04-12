@@ -26,6 +26,10 @@ Empresa::addFuncionario(Funcionario * novo_){
 	for (int i = 0; i < m_total_funcionarios; ++i)
 	{
 		if ((*m_funcionarios[i])==(*novo_)){
+			std::cout << "----------------------------" << std::endl;
+			std::cout << "-FUNCIONARIO JÁ CADASTRADO!-" << std::endl;
+			std::cout << "----------------------------" << std::endl;
+			delete novo_;
 			return false;
 		}
 	}
