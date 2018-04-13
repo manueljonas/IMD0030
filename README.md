@@ -1,5 +1,7 @@
 UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE
+
 INSTITUTO METRÓPOLE DIGITAL
+
 IMD0030 – LINGUAGEM DE PROGRAMAÇÃO I	 
 
 Laboratório 1 : Classes, Objetos, Métodos Construtores, Método Destrutor e Sobrecarga de Operadores
